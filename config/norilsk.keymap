@@ -34,11 +34,11 @@
                 &bt BT_SEL 0 &trans    &kp LA(F4)   &kp LC(LEFT) &kp END    &trans      &msc SCRL_UP
                 &trans       &trans    &trans       &trans       &trans     &trans      &bt BT_CLR
 
-                &bt BT_SEL 1 &trans    &kp HOME     &trans       &mmv MOVE_UP &kp LC(RIGHT) &msc SCRL_DOWN
+                &bt BT_SEL 1 &trans    &kp HOME     &trans       &mmv MOVE_UP &trans      &msc SCRL_DOWN
                 &kp LEFT     &kp DOWN  &kp UP       &kp RIGHT    &kp K_APP  &trans      &trans
 
-                &bt BT_SEL 2 &trans    &trans       &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_RIGHT &mkp MB3
-                &mkp MB1     &mkp MB2  &mkp MB4     &mkp MB5     &trans     &trans      &trans
+                &bt BT_SEL 2 &trans    &trans       &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_RIGHT &kp LC(RIGHT)
+                &mkp MB1     &mkp MB2  &mkp MB4     &mkp MB5     &mkp MB3   &trans      &trans
 
                 &trans       &trans    &trans       &trans
                 &trans       &trans    &mo 1        &trans
