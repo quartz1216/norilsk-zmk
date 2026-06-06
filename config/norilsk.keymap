@@ -24,7 +24,7 @@
                 &kp N            &kp M     &kp COMMA &kp DOT   &kp SLASH     &kp BSLH   &kp MINUS
 
                 &kp LGUI         &kp LALT  &kp LCTRL &kp SPACE
-                &kp BSPC         &kp ENTER &mo 1     &kp LA(SPACE)
+                &kp BSPC         &kp ENTER &mo 1     &kp LG(SPACE)
             >;
         };
 
